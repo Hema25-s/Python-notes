@@ -1,0 +1,32 @@
+BookingID,FirstName,LastName,Gender,Age,RoomType,Nights,RoomRate,Department,PaymentMethod,BookingStatus
+B001,John,Smith,Male,32,Deluxe,3,8500,Sales,Credit Card,Confirmed
+B001,John,Smith,Male,32,Deluxe,3,8500,Sales,Credit Card,
+B002,Sarah,Wilson,Female,28,Suite,5,15000,,UPI,Confirmed
+B003,Michael,Brown,Male,45,Standard,2,,Finance,Cash,Checked Out
+B004,Jennifer,Davis,Female,35,Deluxe,4,,Sales,Credit Card,Confirmed
+B005,David,Miller,Male,41,Suite,6,,IT,UPI,Cancelled
+B006,Emma,Garcia,Female,26,,3,5000,HR,Credit Card,Confirmed
+B007,James,Martinez,Male,38, ,7,8500,Sales,UPI,Checked Out
+B008,Olivia,Anderson,Female,31,Suite,2,15000,Finance,Credit Card,Confirmed
+B009,Robert,Taylor,Male,52,Standard,5,5000,IT,Cash,Checked Out
+B010,Daniel,Thomas,Male,29,Deluxe,4,8500,HR,UPI,Confirmed
+B011,Sophia,Moore,Female,24,Standard,2,5000,Sales,Credit Card,Confirmed
+B012,William,Jackson,Male,47,Suite,3,15000,Finance,UPI,Cancelled
+B013,Jessica,Martin,Female,33,Deluxe,5,8500,IT,Credit Card,Confirmed
+B014,Andrew,Lee,Male,36,Standard,6,5000,Sales,Cash,Checked Out
+B015,Emily,Perez,Female,27,Suite,4,15000,HR,UPI,Confirmed
+B016,Christopher,White,Male,43,Deluxe,3,8500,Finance,Credit Card,Confirmed
+B017,Amanda,Harris,Female,30,Standard,7,5000,IT,UPI,Checked Out
+B018,Joseph,Clark,Male,39,Suite,2,15000,Sales,Credit Card,Confirmed
+B019,Elizabeth,Lewis,Female,44,Deluxe,5,8500,Finance,Cash,Confirmed
+B020,Matthew,Walker,Male,34,Standard,3,5000,HR,UPI,Confirmed
+B021,Jason,Young,Male,31,Suite,6,15000,Sales,Credit Card,Confirmed
+B022,Anna,Allen,Female,29,Deluxe,4,8500,IT,UPI,Cancelled
+B023,Jonathan,King,Male,48,Standard,5,5000,Finance,Cash,Checked Out
+B024,Grace,Wright,Female,25,Suite,3,15000,HR,Credit Card,Confirmed
+B025,Justin,Scott,Male,37,Deluxe,6,8500,Sales,UPI,Confirmed
+B026,Charlotte,Green,Female,42,Standard,2,5000,Finance,Credit Card,Checked Out
+B027,Jordan,Baker,Male,28,Suite,5,15000,IT,UPI,Confirmed
+B028,Amelia,Adams,Female,36,Deluxe,3,8500,HR,Cash,Confirmed
+B029,Julian,Nelson,Male,40,Standard,4,5000,Sales,Credit Card,Confirmed
+B030,Janet,Carter,Female,34,Suite,7,15000,IT,UPI,Checked Out

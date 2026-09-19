@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,Price,Quantity,Rating,City,StockStatus
+P1001,Laptop Pro,Electronics,Dell,75000,12,4.5,Chennai,In Stock
+P1002,Wireless Mouse,Electronics,Logitech,1200,45,4.2,Mumbai,In Stock
+P1003,Office Chair,Furniture,FeatherLite,8500,8,4.6,Bangalore,Low Stock
+P1004,Mechanical Keyboard,Electronics,HP,3500,25,4.4,Delhi,In Stock
+P1005,Study Table,Furniture,IKEA,6500,15,4.1,Hyderabad,In Stock
+P1006,USB Cable,Electronics,Boat,450,60,3.9,Pune,In Stock
+P1007,Water Bottle,Home,Milton,800,35,4.3,Chennai,In Stock
+P1008,Backpack,Accessories,Wildcraft,2200,18,4.5,Mumbai,In Stock
+P1009,Desk Lamp,Home,Philips,1800,22,4.0,Bangalore,In Stock
+P1010,Notebook,Stationery,Classmate,120,100,4.7,Delhi,In Stock
+P1011,Monitor 24 Inch,Electronics,Samsung,14500,10,4.4,Hyderabad,Low Stock
+P1012,Pen Set,Stationery,Reynolds,250,75,4.1,Pune,In Stock
+P1013,Bookshelf,Furniture,IKEA,9200,6,4.6,Chennai,Low Stock
+P1014,Power Bank,Electronics,Boat,1800,30,4.2,Mumbai,In Stock
+P1015,Headphones,Electronics,Sony,6500,14,4.5,Bangalore,In Stock
+P1016,Coffee Mug,Home,Milton,550,40,4.0,Delhi,In Stock
+P1017,Office Desk,Furniture,Godrej,12000,9,4.3,Hyderabad,Low Stock
+P1018,Calculator,Stationery,Casio,900,28,4.6,Pune,In Stock
+P1019,Smart Watch,Electronics,Noise,3200,20,4.1,Chennai,In Stock
+P1020,File Folder,Stationery,Classmate,180,90,3.8,Mumbai,In Stock
+P1021,Keyboard Stand,Accessories,AmazonBasics,1100,16,4.0,Bangalore,In Stock
+P1022,Travel Bag,Accessories,Wildcraft,3500,11,4.4,Delhi,Low Stock
+P1023,Table Fan,Home,Usha,2800,13,4.2,Hyderabad,In Stock
+P1024,Sticky Notes,Stationery,3M,300,55,4.5,Pune,In Stock
+P1025,Webcam,Electronics,Logitech,4200,17,4.3,Chennai,In Stock
+P1026,Floor Lamp,Home,Philips,3600,7,4.1,Mumbai,Low Stock
+P1027,Computer Desk,Furniture,Godrej,10500,5,4.5,Bangalore,Low Stock
+P1028,Marker Set,Stationery,Flair,350,65,4.0,Delhi,In Stock
+P1029,Bluetooth Speaker,Electronics,JBL,5500,19,4.6,Hyderabad,In Stock
+P1030,Office Bag,Accessories,Safari,2400,23,4.2,Pune,In Stock
+P1031,Mobile Stand,Accessories,AmazonBasics,700,32,3.9,Chennai,In Stock
+P1032,External Hard Drive,Electronics,Seagate,6200,9,4.5,Mumbai,Low Stock
+P1033,Whiteboard,Stationery,Classmate,2800,4,4.3,Bangalore,Low Stock
+P1034,Cushion,Home,Solimo,650,42,4.0,Delhi,In Stock
+P1035,Printer,Electronics,HP,12500,7,4.2,Hyderabad,Low Stock
+P1036,Pen Drive,Electronics,Sandisk,950,38,4.4,Pune,In Stock
+P1037,Shoe Rack,Furniture,IKEA,4800,10,4.1,Chennai,In Stock
+P1038,Diary,Stationery,Classmate,450,70,4.7,Mumbai,In Stock
+P1039,Air Purifier,Home,Philips,15500,3,4.6,Bangalore,Low Stock
+P1040,Laptop Stand,Accessories,AmazonBasics,2100,21,4.3,Delhi,In Stock
+P1041,Smartphone,Electronics,Samsung,28000,8,4.5,Hyderabad,Low Stock
+P1042,Desk Organizer,Stationery,3M,750,27,4.1,Pune,In Stock
+P1043,Books,Stationery,Penguin,600,50,4.8,Chennai,In Stock
+P1044,Ceiling Fan,Home,Usha,4200,6,4.4,Mumbai,Low Stock
+P1045,Office Cabinet,Furniture,Godrej,15000,4,4.2,Bangalore,Low Stock
+P1046,Tablet,Electronics,Lenovo,22000,11,4.3,Delhi,In Stock
+P1047,Earphones,Electronics,Boat,1500,35,4.0,Hyderabad,In Stock
+P1048,Handbag,Accessories,Safari,1800,26,4.2,Pune,In Stock
+P1049,Wall Clock,Home,Ajanta,950,18,4.1,Chennai,In Stock
+P1050,Paper Ream,Stationery,JK,450,80,4.4,Mumbai,In Stock
